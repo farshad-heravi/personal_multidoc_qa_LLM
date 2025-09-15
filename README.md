@@ -2,6 +2,7 @@
 
 A powerful multi-document, multi-URL question-answering application that uses local Large Language Models (LLMs) via Ollama to analyze and answer questions based on the provided resources. Built with Streamlit for an intuitive web interface.
 
+![project_local_llm_qa_lq](https://github.com/user-attachments/assets/e6cb0f83-2154-4618-8f70-e1c788f0780c)
 
 ## ✨ Key Features
 
