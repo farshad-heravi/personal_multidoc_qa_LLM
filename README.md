@@ -9,6 +9,7 @@ A powerful multi-document, multi-URL question-answering application that uses lo
 - **🤖 Local LLM Integration** - Uses Ollama for private, cost-free AI responses
 - **📄 Multi-PDF Support** - Upload and analyze multiple PDF documents simultaneously
 - **🌐 URL Content Analysis** - Extract and analyze content from web URLs
+- **🧭 RAG-based pipeline** – combines retrieval and generation for grounded answers.
 - **🔍 Intelligent Document Search** - TF-IDF vectorization for relevant context retrieval
 - **📍 Source Citations** - Provides document names and page references for answers
 - **📚 Dynamic Document Management** - Add/remove documents anytime during your session
